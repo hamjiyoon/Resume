@@ -2,4 +2,4 @@
 ---
 ![이력서사진](KakaoTalk_20220125_113438909.jpg)
 
-<img src=KakaoTalk_20220125_113438909.jpg height=150 widht=150
+<img src=KakaoTalk_20220125_113438909.jpg height=150 widht=150>
